@@ -55,3 +55,7 @@ dacon_submit_api/
 # Keep example files
 !data/README.md
 !submissions/README.md
+
+# Data archives
+*.zip
+*.csv
