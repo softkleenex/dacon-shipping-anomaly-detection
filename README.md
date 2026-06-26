@@ -207,3 +207,11 @@ MIT License
 **개발 기간**: 2025.09.08 - 2025.10.02
 **주최**: 해양수산부, 울산항만공사, 한국정보산업연합회
 **운영**: 데이콘
+
+<!-- BLOG-URL:START -->
+
+## Blog
+
+- Blog note: [스마트 해운물류 x AI 미션 챌린지 : 이상신호 감지 기반 비정상 작동 진단](https://softkleenex.github.io/coding_training/dacon/dacon-shipping-anomaly-detection)
+
+<!-- BLOG-URL:END -->
