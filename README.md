@@ -212,6 +212,6 @@ MIT License
 
 ## Blog
 
-- Blog note: [스마트 해운물류 x AI 미션 챌린지 : 이상신호 감지 기반 비정상 작동 진단](https://softkleenex.github.io/coding_training/dacon/dacon-shipping-anomaly-detection)
+- Blog note: [스마트 해운물류 x AI 미션 챌린지 : 이상신호 감지 기반 비정상 작동 진단](https://softkleenex.github.io/posts/dacon-shipping-anomaly-detection/)
 
 <!-- BLOG-URL:END -->
